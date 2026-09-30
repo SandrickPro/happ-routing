@@ -23,7 +23,6 @@
     "geosite:russia-inside",
     "geosite:category-ru",
     "geosite:whitelist",
-    "geosite:microsoft",
     "geosite:apple",
     "geosite:epicgames",
     "geosite:riot",
@@ -43,6 +42,7 @@
     "geosite:github",
     "geosite:twitch-ads",
     "geosite:youtube",
+    "geosite:microsoft",
     "geosite:telegram"
   ],
   "ProxyIp": [],
